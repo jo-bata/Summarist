@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "124702922072",
+    "firebase_url": "https://summarist-e2842.firebaseio.com",
+    "project_id": "summarist-e2842",
+    "storage_bucket": "summarist-e2842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124702922072:android:e191284b0b90e2f9",
+        "android_client_info": {
+          "package_name": "kr.ac.skuniv.oopsla.jobata.summarist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124702922072-a3n8ksehheifqji9q26ig61j4mips3si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqPGdio_W_cmFko7cu3-whb1dQ-JUJuew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
